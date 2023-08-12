@@ -1,16 +1,6 @@
 {
     "data": [
         {
-            "id": 1,
-            "destinationName": "islamabad",
-            "country": "Pakistan",
-            "tourCapacity": 12,
-            "departure": "8/8/2023",
-            "arrival": "20/8/2023",
-            "price": "50000",
-            "transport": "Air"
-        },
-        {
             "id": 2,
             "destinationName": "kashmir",
             "country": "Pakistan",
@@ -21,12 +11,22 @@
             "transport": "Air"
         },
         {
-            "id": 3,
-            "destinationName": "srinagar",
+            "id": 4,
+            "destinationName": "Dubai",
+            "country": "UAE",
+            "tourCapacity": 20,
+            "departure": "8/8/2023",
+            "arrival": "20/8/2023",
+            "price": "250000",
+            "transport": "Air"
+        },
+        {
+            "id": 5,
+            "destinationName": "Kashmir",
             "country": "Pakistan",
-            "tourCapacity": 12,
-            "departure": "6/8/2023",
-            "arrival": "18/8/2023",
+            "tourCapacity": 20,
+            "departure": "10/8/2023",
+            "arrival": "25/8/2023",
             "price": "50000",
             "transport": "Air"
         }
